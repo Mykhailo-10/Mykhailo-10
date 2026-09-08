@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mykhailo 👋
 
-<!--
-**Mykhailo-10/Mykhailo-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇦 Ukrainian, based in Kristiansand, Norway
 
-Here are some ideas to get you started:
+🎓 Studying **IT og informasjonssystemer** (BSc) at the University of Agder (UiA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long-term I'm especially interested in:
+
+- 🔐 Cybersecurity
+- ☁️ SaaS & digital products
+
+## Currently learning
+
+- Python
