@@ -4,7 +4,7 @@
 
 🎓 Studying **IT og informasjonssystemer** (BSc) at the University of Agder (UiA)
 
-Long-term I'm especially interested in:
+## Long-term I'm especially interested in:
 
 - 🔐 Cybersecurity
 - ☁️ SaaS & digital products
