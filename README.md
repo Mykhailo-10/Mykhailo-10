@@ -7,7 +7,6 @@
 ## Long-term I'm especially interested in:
 
 - 🔐 Cybersecurity
-- ☁️ SaaS & digital products
 
 ## Currently learning
 
